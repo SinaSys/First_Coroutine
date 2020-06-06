@@ -23,4 +23,7 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "Hello from Thread${Thread.currentThread().name}")
 
     }
+
+
+
 }
